@@ -39,9 +39,10 @@ This project implements an Artificial Neural Network (ANN) to predict diabetes d
 | MSE | 2950-3100 | 2600-2800 | 10-15% reduction |
 | RMSE | 54-56 | 51-53 | ~5% reduction |
 
-## 🚀 How to Run
+# Diabetes Progression Prediction using ANN
 
-### Prerequisites
-```bash
-Python 3.8+
-pip install -r requirements.txt
+🎯 **Accuracy**: R² = 0.45-0.52  
+📊 **Dataset**: 442 patients, 10 features  
+🏆 **Best Model**: 64-32-16 architecture with L2 regularization  
+
+[View Notebook](diabetes_analysis.ipynb) | [Requirements](requirements.txt)
